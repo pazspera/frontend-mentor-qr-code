@@ -1,0 +1,29 @@
+.qr-code {
+    width: 325px;
+    margin: 0 auto;
+    background-color: $white;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 3px 17px 37px -8px rgba(31,50,81,0.24);
+}
+
+.qr-code__title {
+    color: $darkBlue;
+    font-size: 1.4rem;
+}
+
+.qr-code__text {
+    color: $graysinBlue;
+    font-size: 0.9rem;
+    max-width: 90%;
+    margin: 0 auto 0.75rem auto;
+}
+
+.qr-code__img {
+    border-radius: 1rem;
+}
+
+.qr-code__content {
+    padding: 0.75rem 1rem;
+    text-align: center;
+}
