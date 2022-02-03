@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Built with
 
 - Semantic HTML5 markup
-- Sass (Followed Sass Guidelines for proyect organization)
+- Sass (Followed [Sass Guidelines](https://sass-guidelin.es/) for project organization)
 - Flexbox
 - BEM Methodology
 
